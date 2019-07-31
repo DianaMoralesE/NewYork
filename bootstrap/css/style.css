@@ -1,0 +1,19 @@
+#carouselExampleIndicators{
+  margin-bottom: 50px;
+}
+
+.carousel-inner{
+  height: 100%;
+  left: 0;
+  top: 0;
+  padding: 30px 45px;
+  text-align: center;
+  width: 340px;
+}
+
+.carousel-inner img{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
